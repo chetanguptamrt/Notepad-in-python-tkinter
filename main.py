@@ -48,7 +48,7 @@ def Help():
 def contactus():
     tsmg.showinfo("Contact us","Contact me on twitter @chetanguptamrt")
 def About():
-    tsmg.showinfo("About","Notepad - 1.0 \n By chetanguptamrt")
+    tsmg.showinfo("About","Notepad - 1.0 \n By Chetan Gupta")
 #----------------------------------------------------------
 root=Tk()
 root.geometry("600x400")
